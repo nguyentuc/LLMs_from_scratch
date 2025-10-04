@@ -1,6 +1,15 @@
 # Training Large Language Model From Scratch
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM.
 
+# Quickstart
+```bash
+conda create --name building_llms python=3.13
+conda activate building_llms
+pip install -r requirements.txt
+conda install ipykernel
+python -m ipykernel install --user --name myenv --display-name "Building_LLMs" # register to showup in Python kernel
+```
+
 # Table of Contents
 
 | Chapter Title                                              | Main Code (for Quick Access)                                                                                                    | All Code + Supplementary      |
