@@ -46,17 +46,6 @@ You can alternatively view this and other files on GitHub at [https://github.com
 &nbsp;
 
 
-&nbsp;
-## Video Course
-
-[A 17-hour and 15-minute companion video course](https://www.manning.com/livevideo/master-and-build-large-language-models) where I code through each chapter of the book. The course is organized into chapters and sections that mirror the book's structure so that it can be used as a standalone alternative to the book or complementary code-along resource.
-
-<a href="https://www.manning.com/livevideo/master-and-build-large-language-models"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/video-screenshot.webp?123" width="350px"></a>
-
-
-&nbsp;
-
-
 
 
 
